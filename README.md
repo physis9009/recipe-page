@@ -4,8 +4,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/physis9009/recipe-page.git
+- Live Site URL: https://physis9009.github.io/recipe-page/
 
 ## Built with
 
